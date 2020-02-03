@@ -26,4 +26,9 @@ Les branchements  sont les suivants :
   - G et R sur 5V et masse respectivement
   - Y sur la broche 7 de l'arduino
 
-	
+Chenillard
+==========
+
+![alt](./DSC_0485.JPG)
+
+Les leds sont branchées sur les broches 9 à 13 et le potentiomètre sur A0
